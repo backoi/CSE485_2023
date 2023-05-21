@@ -1,4 +1,0 @@
-1,John Doe,20,Male,61TH
-2,Jane Smith,21,Female,60KT
-3,Bob Johnson,19,Male,62TH3
-4,Lee Chung Hee,19,Female,62KTO
