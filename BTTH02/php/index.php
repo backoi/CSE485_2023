@@ -11,22 +11,23 @@
     <title>Đăng nhập</title>
 </head>
 <body>
-  <div class="container" style="border: 5px solid #ced4da;">
+  <div class="container" style="border: 5px solid #ced4da;max-width: 500px;padding: 50px; margin-top: 100px">
   <form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <h1>Đăng nhập</h1>
+  <div class="form-group mb-3">
+    <label for="email">Email</label>
+    <input type="email" class="form-control" id="email">
     
   </div>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1">
+  <div class="form-group mb-3">
+    <label for="password">Password</label>
+    <input type="password" class="form-control" id="password">
   </div>
-  <div class="form-group form-check">
+  <!-- <div class="form-group form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
     <label class="form-check-label" for="exampleCheck1">Check me out</label>
-  </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  </div> -->
+  <button type="submit" class="btn btn-primary">Đăng nhập</button>
 </form>
   
   </div>
