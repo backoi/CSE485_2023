@@ -1,0 +1,43 @@
+Sinh Viên:
+- ID: mã số duy nhất được gán cho mỗi sinh viên. Mỗi sinh viên sẽ chỉ có 1 mã ID
+- Tên: họ tên đầy đủ của sinh viên
+- Ngày Sinh: ngày tháng năm sinh của sinh viên
+- Email: địa chỉ email cá nhân hay công việc của mỗi sinh viên
+- Thông tin liên lạc: các phương thức liên lạc khác của sinh viên như số điện thoại, địa chỉ nhà,..
+- Khóa học: tên hoặc ID kháo học sinh viên đăng kí
+- Học kỳ
+- Giai đoạn: Thời gian hoặc 
+
+Sự Tham Dự: vắng, muộn, nghỉ có phép, có mặt
+- ID (lớp học phần): mã số của lớp học phần
+- ID (sinh viên); mã số của sinh viên
+- ID (khóa học): mã số của khóa học
+- Ngày: ngày sinh viên tham dự lớp học phần đó
+
+Khóa Học:
+- ID (lớp): mã số duy nhất được gán cho mỗi lớp
+- ID (giảng viên) : mã số duy nhất của mỗi giảng viên
+- ID (học phần): mã số duy nhất của mỗi học phần
+- Ngày: thời điểm khóa học diễn ra
+
+Lớp học phần:
+- ID: mã số duy nhất được cấp cho học phần
+- Tiêu đề: Tên của lớp học phần
+- Mô tả: mô tả chi tiết về nội dung, cấu trúc và yêu cầu của lớp học phần
+
+Giảng Viên:
+- ID: mã số duy nhất của giảng viên 
+- Tên: họ tên đầy đủ của giảng viên
+- Email: địa chỉ email cá nhân hoặc công ty của giảng viên
+- Thông tin liên lạc: các thông tin liên lạc khác của giảng viên như số điện thoại, địa chỉ văn phòng, trang web cá nhân,…
+
+Báo Cáo:
+- Tỷ lệ tham dự: tỷ lệ giữa số sinh viên tham dự với tổng số sinh viên của lớp học phần đó
+- Số người vắng mặt: số sinh viên không dự lớp học phần đó
+
+Xác thực và ủy quyền:
+- Quản trị viên: người có trách nhiệm quản lý và điều hành toàn bộ hệ thống giáo dục. Họ được cấp quyền quản lý, chỉnh sửa và kiểm soát thông tin
+- Giảng viên: giảng viên sẽ được cấp quyền đăng nhập vào hệ thống với tài khoản được cho phép truy cập đến chức năng giảng dạy và quản lý lớp học phần
+- Sinh viên: sinh viên sẽ được cấp quyền đăng nhập vào hệ thống với tài khoản được cho phép truy cập đến các thông tin về khóa học, lớp học phần và tình trạng học tập của mình.
+
+
